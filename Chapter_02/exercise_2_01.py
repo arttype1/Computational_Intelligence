@@ -1,4 +1,5 @@
 # Exercises and examples from 'Computational Intelligence' by Poole, Mackworth, and Goebel
+# all code by George A. Merrill, except where otherwise noted.
 ##########################################################################################
 # exercise 2.1 model of a knowledge base
 facts = ['e', ' ']
